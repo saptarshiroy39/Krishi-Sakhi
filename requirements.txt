@@ -1,0 +1,12 @@
+Flask==3.0.3
+Flask-CORS
+Flask-SQLAlchemy
+Flask-Migrate
+gunicorn==22.0.0
+Werkzeug==3.0.6
+python-dotenv
+google-generativeai
+requests
+groq
+psycopg2-binary
+SQLAlchemy
