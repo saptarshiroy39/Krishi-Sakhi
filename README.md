@@ -1,4 +1,4 @@
-# 🌾 Krishi Sakhi AI
+# 🌾 Krishi Sakhi
 
 **Krishi Sakhi AI** is an intelligent farming assistant application built for **Smart India Hackathon 2025**. It provides Kerala farmers with AI-powered agricultural guidance, weather insights, crop management advice, and personalized farming recommendations through an intuitive web interface.
 
